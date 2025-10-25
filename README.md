@@ -2,14 +2,7 @@
 
 Advanced Web Scraping Bot - Multi-Search Engine & IP Intelligence Tool
 
-## 📋 Table of Contents
-- [Features](#features)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Examples](#examples)
-- [Output Formats](#output-formats)
-- [Notes](#notes)
+
 
 ## ✨ Features
 
