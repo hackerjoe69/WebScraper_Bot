@@ -184,7 +184,6 @@ class RobotsTxtChecker:
                     continue
         return None
 
-
 class AdvancedScrapingBot:
     def __init__(self):
         self.session = None
